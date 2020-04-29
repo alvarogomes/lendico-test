@@ -2,7 +2,6 @@ package de.lendico.loan.mapper;
 
 import de.lendico.loan.datamodel.RepaymentPlan;
 import de.lendico.loan.datatransferobject.RepaymentPlanDTO;
-import org.mapstruct.InheritInverseConfiguration;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 import org.mapstruct.Mappings;
