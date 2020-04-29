@@ -7,7 +7,7 @@ This project was created using Maven, Java 8, and Spring boot.
 
 #### 1) Clone the github repository:
 ```sh
-git clone https://github.com/alvarogomes/lendico-test
+git clone https://github.com/alvarogomes/lendico-test.git
 ```
 
 #### 2) Generate the build and execute the tests 
